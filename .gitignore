@@ -1,6 +1,3 @@
 # Ignore everything
 CV/*
 *.ini
-
-# But not these files...
-!CV/*cv.pdf
