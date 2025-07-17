@@ -22,7 +22,7 @@
 
 - Email: [zeyad.hessien1124@gmail.com](mailto:zeyad.hessien1124@gmail.com)
 
-[![My LinkedIn](https://img.shields.io/badge/-MAlazhariy-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://www.linkedin.com/in/zeyad-hessien-18668724b/)
+[![My LinkedIn](https://img.shields.io/badge/-ZeyadHessien-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://www.linkedin.com/in/zeyad-hessien-18668724b/)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
