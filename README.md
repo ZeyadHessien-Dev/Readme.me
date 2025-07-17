@@ -1,13 +1,13 @@
 <!-- ## Hello world 👋, I'm Zeyad Hessien. -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=250&color=F7F7F7&background=0D061F&repeat=false&random=false&width=435&lines=Hello+world+%F0%9F%91%8B%2C;I'm+Zeyad+Hessien.)](https://git.io/typing-svg)
 
-![banner](https://raw.githubusercontent.com/ZeyadHessien-Dev/Readme.me/main/banner.gif)
+![banner](https://raw.githubusercontent.com/ZeyadHessien-Dev/ZeyadHessien-Dev/main/banner.gif)
 
 ---
 
-## [📃 My CV](https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/CV/Zeyad%20Hessien%20-%20cvMobile%20Engineer.pdf?raw=true)
+## [📃 My CV](https://github.com/ZeyadHessien-Dev/ZeyadHessien-Dev/blob/main/CV/Zeyad%20Hessien%20-%20cvMobile%20Engineer.pdf?raw=true)
 
-[<img src="https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>](https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/CV/Zeyad%20Hessien%20-%20Mobile%20Engineer.pdf?raw=true)
+[<img src="https://github.com/ZeyadHessien-Dev/ZeyadHessien-Dev/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>](https://github.com/ZeyadHessien-Dev/ZeyadHessien-Dev/blob/main/CV/Zeyad%20Hessien%20-%20Mobile%20Engineer.pdf?raw=true)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
