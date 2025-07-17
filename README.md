@@ -7,7 +7,7 @@
 
 ## [📃 My CV](https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/CV/Zeyad%20Hessien%20-%20cvMobile%20Engineer.pdf?raw=true)
 
-[<img src="https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>](https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/CV/Zeyad%20Hessien%20-%20cvMobile%20Engineer.pdf?raw=true)
+[<img src="https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>](https://github.com/ZeyadHessien-Dev/Readme.me/blob/main/CV/Zeyad%20Hessien%20-%20Mobile%20Engineer.pdf?raw=true)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
