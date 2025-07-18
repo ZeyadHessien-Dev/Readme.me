@@ -19,6 +19,18 @@
 [![My Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&labelColor=D14836&style=flat)](mailto:zeyadhessien11240@gmail.com)
 [![My LinkedIn](https://img.shields.io/badge/-ZeyadHessien-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://www.linkedin.com/in/zeyad-hessien-18668724b/)
 
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Dart, Java, Swift, C#, JavaScript
+- **Frameworks:** Flutter, .NET, Firebase
+- **Databases:** SQLite, Firebase Firestore, SQL Server
+- **Tools:** Git, GitHub, VS Code, Android Studio, Xcode
+- **Design:** Figma, Adobe XD
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
