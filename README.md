@@ -46,6 +46,37 @@
 
 ----
 
+## 3rabitk
+
+3rabitk – Car Spare Parts & Services App
+
+📱 Project Overview:
+3rabitk is a specialized mobile application focused on providing car owners with an easy and reliable way to purchase spare parts and access essential automotive services. The app serves as a centralized platform where users can explore a wide range of spare parts, compare options, and place orders directly from their smartphones. In addition to selling spare parts, the app offers various services related to vehicle maintenance, repairs, and upgrades, aiming to cover all the needs of car owners in one convenient solution.
+
+🎯 My Role in the Project:
+I worked on developing an integrated platform that simplifies the process of searching for and purchasing car spare parts. The application was designed to help users quickly find the parts they need, view detailed product information, and complete their orders easily through a user-friendly interface. Alongside product sales, I helped implement a suite of car-related services that users can access directly from the app, enhancing the overall value of the platform. My contributions also included optimizing app performance, enhancing UI/UX for smooth navigation, and collaborating with the backend team to ensure secure handling of orders and service bookings.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/3arbitk/id6745438429)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=com.arbiatek.autocar)
+
+---
+
+## Juhayna
+
+Juhayna – Student Supplies & Services App
+
+📱 Project Overview:
+Juhayna is a comprehensive mobile application designed to serve students by providing everything they need in one place. The app focuses primarily on selling textbooks and academic materials, while also offering a wide range of student-related products and services. From essential school supplies to academic support services, the platform acts as a one-stop solution to simplify students' daily needs.
+
+🎯 My Role in the Project:
+I contributed to building a smooth and efficient platform that enables students to browse, purchase, and manage their academic supplies easily. The app was designed to offer a simple and intuitive shopping experience, allowing students to find and order their required textbooks and other essential items with minimal effort. In addition to product sales, I worked on integrating a set of services that cover common student needs, positioning the app as an all-in-one solution for student life. My focus included enhancing the UI/UX for an engaging user experience, ensuring fast app performance, and collaborating with the backend team to manage secure transactions and smooth data handling.
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/%D8%AC%D9%87%D9%8A%D9%86%D8%A9/id6741417662)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=com.juhaynaapp.tatbik)
+
+---
+
 ## Mudir
 
 📱 Classified Ads Mobile Application
@@ -59,7 +90,6 @@ I was responsible for developing a comprehensive ad management system that strea
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/mudir-app/id6740160225)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=com.mudirapplication.app)
-
 
 ---
 
