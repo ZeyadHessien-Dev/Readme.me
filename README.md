@@ -66,13 +66,13 @@ I was responsible for developing a comprehensive ad management system that strea
 ## Qareeb
 
 • Comprehensive Delivery – The app allows you to order all your household essentials and shop from
-local stores without leaving your home.
-• Easy to Use – Simply download the app and place your orders effortlessly through a smooth and user-
-friendly interface.
-• Local Coverage – Shop from nearby stores, ensuring fast and convenient delivery.
-• Fast Delivery Service – Receive your orders in record time with our dedicated delivery team.
-• Affordable Cost – Enjoy shopping and delivery services for a very low fee.
-• Comfort & Safety – Shop from home with ease and peace of mind, without the need to go out
+Comprehensive Delivery Application
+
+📱 Project Overview:
+A modern delivery app designed to help users order all their household essentials and shop from nearby local stores without leaving their homes. The application focuses on providing a smooth, user-friendly shopping experience, combining local store coverage with fast and affordable delivery services to ensure convenience and customer satisfaction.
+
+🎯 My Role in the Project:
+I contributed to developing a seamless delivery platform that allows users to shop effortlessly from their smartphones. The application offers a simple download-and-order process through an intuitive and user-friendly interface, ensuring that customers of all ages can navigate and place orders easily. I worked on integrating location-based services to enable users to shop from nearby stores, supporting quick deliveries from local vendors. I also focused on optimizing the delivery process to guarantee fast and reliable service, collaborating with the operations team to ensure orders reach customers in record time. Additionally, the app was designed to offer these services at minimal cost, making home shopping both affordable and accessible. Throughout development, particular attention was given to providing a comfortable and safe shopping experience, allowing users to fulfill their needs without having to leave their homes.
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/qreeb-%D9%82%D8%B1%D9%8A%D8%A8/id6477424847)
@@ -83,11 +83,13 @@ friendly interface.
 
 ##  منصة الطباخ التعليمية 
 
-• Developed an educational platform where chefs can publish exclusive cooking lessons.
-• Implemented a secure payment system for users to purchase and access premium lessons.
-• Integrated a smooth and responsive UI to enhance the learning experience.
-• Collaborated with the backend team to ensure seamless content management and transactions.
-• Optimized performance for fast loading and efficient resource usage.
+Cooking Lessons Platform
+
+📱 Project Overview:
+An educational mobile platform designed specifically for chefs to share and monetize their exclusive cooking lessons. The app provides aspiring cooks and food enthusiasts with easy access to high-quality, premium educational content, focusing on enhancing the overall learning experience through smooth interaction and secure payment systems.
+
+🎯 My Role in the Project:
+I was involved in developing the entire platform, enabling chefs to easily publish and manage their exclusive cooking lessons within the app. A secure payment system was implemented to allow users to safely purchase and access premium content without friction. To improve user satisfaction, I designed and integrated a smooth, responsive user interface that ensures an engaging and comfortable learning experience. Throughout the project, I worked closely with the backend team to establish efficient content management workflows and ensure seamless transaction handling. Additionally, I optimized the app’s performance by reducing loading times and enhancing resource management, guaranteeing fast and efficient operation for all users.
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%AE-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6738892865)
@@ -95,27 +97,16 @@ friendly interface.
 
 ---
 
-## Mared
-
-• Developed an educational platform where chefs can publish exclusive cooking lessons.
-• Implemented a secure payment system for users to purchase and access premium lessons.
-• Integrated a smooth and responsive UI to enhance the learning experience.
-• Collaborated with the backend team to ensure seamless content management and transactions.
-• Optimized performance for fast loading and efficient resource usage.
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/maared/id1613335725)
-
----
-
 ## Q-Part
 
-• An app designed for car enthusiasts to:
-• Manage maintenance schedules.
-• Find spare parts easily.
-• Enhance the driving experience.
-• Access essential car services effortlessly.
-• Keep vehicles in top condition.
-• Discover new ways to improve performance.
+Car Care & Services Application
+
+📱 Project Overview:
+A specialized mobile app designed for car enthusiasts, helping them manage every aspect of their vehicle’s care. The application allows users to effortlessly track maintenance schedules, find spare parts, and access essential car services in just a few clicks. By centralizing these features, the app aims to enhance the overall driving experience and help users keep their vehicles in optimal condition.
+
+🎯 My Role in the Project:
+I worked on developing a comprehensive platform that serves car owners by simplifying vehicle maintenance and service management. The app enables users to schedule and manage maintenance tasks, ensuring they never miss important service dates. I also contributed to building features that allow users to easily search for and locate spare parts, making the repair process faster and more convenient. In addition, the app provides direct access to essential car services, such as inspections, repairs, and upgrades, all through a smooth and intuitive user interface. Throughout the project, I focused on delivering a solution that not only helps users maintain their cars but also discover new ways to improve performance and enhance their overall driving experience.
+
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/qpart/id6444791394)
 
@@ -123,16 +114,16 @@ friendly interface.
 
 ## Nursey 
 
-• Developed a seamless platform for discovering nearby nurseries, exploring profiles, and subscribing
-with ease.
-• Integrated the Flutter front-end with a .NET backend, ensuring smooth data flow and secure database
-interactions.
-• Enhanced the UI/UX using Flutter widgets and state management for an intuitive user experience.
-• Enabled real-time schedule updates, providing parents with peace of mind and convenience
+Nursery Finder Platform
+
+📱 Project Overview:
+A mobile platform designed to help parents easily discover nearby nurseries, explore detailed nursery profiles, and subscribe to services effortlessly. The app focuses on simplifying the search and enrollment process while providing real-time updates and essential nursery information, offering parents greater peace of mind and convenience.
+
+🎯 My Role in the Project:
+I developed a seamless solution that allows parents to search for nurseries in their area, view detailed profiles, and complete subscriptions smoothly through the app. The front-end was built using Flutter, which I integrated with a .NET backend to ensure secure and efficient data management. Throughout development, I focused on enhancing the UI/UX using Flutter widgets and effective state management techniques, delivering an intuitive and user-friendly experience. Additionally, I implemented real-time schedule updates, allowing parents to stay informed about their child's daily routine and any important changes, contributing to a more reliable and reassuring experience.
+
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D9%86%D8%A9/id6444128376)
-
-
 
 <!--
 ---
