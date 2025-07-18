@@ -10,9 +10,11 @@
 [//]: # ()
 [//]: # ([<img src="https://github.com/ZeyadHessien-Dev/ZeyadHessien-Dev/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>]&#40;https://github.com/ZeyadHessien-Dev/ZeyadHessien-Dev/blob/main/CV/Zeyad%20Hessien%20-%20Mobile%20Engineer.pdf?raw=true&#41;)
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />)
+
+[//]: # (</div>)
 
 ## 📫 Connect with me
 
@@ -23,9 +25,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Dart, Java, Swift, C#, JavaScript
-- **Frameworks:** Flutter, .NET, Firebase
-- **Databases:** SQLite, Firebase Firestore, SQL Server
+- **Languages:** Dart, C++
+- **Basic Knowledge:** OOP, Solid Principle, Data Structure, Algorithms, Design Patterns, Problem Solving
+- **Frameworks:** Flutter, Firebase
+- **Databases:** SQLite, Firebase Firestore
 - **Tools:** Git, GitHub, VS Code, Android Studio, Xcode
 - **Design:** Figma, Adobe XD
 
