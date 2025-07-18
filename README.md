@@ -16,8 +16,7 @@
 
 ## 📫 Connect with me
 
-- Email: [zeyad.hessien1124@gmail.com](mailto:zeyad.hessien1124@gmail.com)
-
+[![My Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&labelColor=D14836&style=flat)](mailto:zeyadhessien11240@gmail.com)
 [![My LinkedIn](https://img.shields.io/badge/-ZeyadHessien-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://www.linkedin.com/in/zeyad-hessien-18668724b/)
 
 <div align="center">
