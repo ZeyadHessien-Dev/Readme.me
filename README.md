@@ -76,7 +76,7 @@ I contributed to developing a seamless delivery platform that allows users to sh
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/qreeb-%D9%82%D8%B1%D9%8A%D8%A8/id6477424847)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/console/u/0/developers/5568026819261470265/app/4973071592916832253/app-dashboard?timespan=thirtyDays)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=com.semicolon.qareb)
 
 
 ---
