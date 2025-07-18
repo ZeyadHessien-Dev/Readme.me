@@ -48,14 +48,13 @@
 
 ## Mudir
 
-• Developed an innovative solution to enhance the buying and listing experience, ensuring seamless ad
-management within the app.
-• Integrated interactive maps to enable users to easily locate sellers and view advertisement locations in
-real time.
-• Optimized app performance, reducing load times and minimizing resource consumption for a smoother
-user experience
-• Collaborated closely with the back-end team to implement secure and efficient data handling for listings
-and user interactions.
+📱 Classified Ads Mobile Application
+
+Project Overview:
+A user-friendly classified ads app designed to simplify the buying and selling process. The app allows users to easily create, manage, and browse ads, with location-based features enabling buyers to find nearby sellers through interactive maps. It focuses on providing a smooth and efficient experience for both buyers and sellers.
+
+🎯 My Role in the Project:
+I was responsible for developing a comprehensive ad management system that streamlined the process of listing and managing ads, making it simple for sellers to post, edit, and remove their advertisements within the app. I also integrated real-time interactive maps to enable users to locate sellers and view ad locations visually, enhancing the browsing experience with dynamic, location-based features. In addition, I optimized the overall performance of the application by reducing loading times and minimizing resource consumption, which resulted in a faster and smoother experience for users. Throughout the project, I worked closely with the backend team to ensure secure and efficient API integrations, enabling safe data handling for user interactions and listings while maintaining high standards of security and system reliability.
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/mudir-app/id6740160225)
