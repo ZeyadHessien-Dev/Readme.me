@@ -77,6 +77,21 @@ I contributed to building a smooth and efficient platform that enables students 
 
 ---
 
+## Jessor
+
+Jessor – Multi-Platform Educational Hub
+
+📱 Project Overview:
+Jessor is an advanced educational platform designed to act as a central hub connecting students to multiple educational systems through a single application. By using a unique access code, students can seamlessly enter various learning platforms, each offering specialized content and services. Jessor is essentially more than just an app—it functions as a collection of interconnected platforms within one unified interface, providing students with a wide range of academic resources and services. The app also serves as a tool for teachers to offer educational content, manage their classes, and provide support services directly to students.
+
+🎯 My Role in the Project:
+I contributed to building and optimizing the platform, focusing on creating a flexible architecture that allows seamless access to different educational systems using unique access codes. My work involved developing a user-friendly interface where students can easily switch between platforms without confusion, giving them centralized access to lessons, resources, and educational services. I also worked on implementing features that enable teachers to upload content, manage classes, and deliver various educational services to students through the app. Throughout the project, I focused on enhancing the user experience, ensuring smooth system integration, and collaborating with the backend team to support secure data handling and reliable platform performance.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/jesoor/id6739429898)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=semicolon.jessor.stu)
+
+---
+
 ## Mudir
 
 📱 Classified Ads Mobile Application
